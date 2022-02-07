@@ -1,0 +1,15 @@
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.csproj.AssemblyReference.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.AssemblyInfoInputs.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.AssemblyInfo.cs
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.csproj.CoreCompileInputs.cache
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\bin\Debug\net6.0\UniversitySystem.exe
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\bin\Debug\net6.0\UniversitySystem.deps.json
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\bin\Debug\net6.0\UniversitySystem.runtimeconfig.json
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\bin\Debug\net6.0\UniversitySystem.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\bin\Debug\net6.0\ref\UniversitySystem.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\bin\Debug\net6.0\UniversitySystem.pdb
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\ref\UniversitySystem.dll
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.pdb
+C:\Users\dd\Desktop\Lectures & labs\Year 4\Semester 1\Software Engineering 2\Projects\Tutorial Project\Universitysystem\obj\Debug\net6.0\UniversitySystem.genruntimeconfig.cache
